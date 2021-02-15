@@ -1,1 +1,1 @@
-# My-TShirt-Store
+# My-TShirt-Store (E-commerce web application)
